@@ -4,49 +4,49 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['50258487658', 'TONY', true],
-  ['50258487658', 'TONY', true],
+  ['59892959423', 'Annie', true],
+  ['59892959423', 'Annie', true],
 ]
-global.suittag =['50258487658']
+global.suittag =['59892959423']
 global.mods = []
-global.prems = ['50258487658'], 
-global.prems = ['50258487658'],
+global.prems = ['59892959423'], 
+global.prems = ['59892959423'],
 
-global.packname = '𝑫𝑹𝑶𝑰𝑫-8-𝑴𝑫'
-global.author = '𝐓𝐎𝐍𝐘★𝐎𝐅𝐂'
+global.packname = 'ʚ🩵ɞ  𝗔𝗻𝗻𝗶𝗲𝗕𝗼𝘁 ✨ ⤾·˚ ༘'
+global.author = '▒̶᩠߲⃡ࠖ᩼᭭݊⃝⃡🩵ࣱꪾ῾֣ؐ  𝘈𝘯𝘯𝘪𝘦𝘉𝘰𝘵 °୭'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.gt = '▒̶᩠߲⃡ࠖ᩼᭭݊⃝⃡🩵ࣱꪾ῾֣ؐ  𝘈𝘯𝘯𝘪𝘦𝘉𝘰𝘵 °୭'
 global.hadesbot = gt
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = 'https://youtu.be'
 global.youtube = yt
-global.ig = 'https://www.instagram'
+global.ig = 'https://www.instagram/designs.annie'
 global.hadesig = ig
 global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/KlAYxPxLAkSGOyZxeXXZkt'
+global.nn = 'https://chat.whatsapp.com/EpeBJdsDxa6G90duEx0Uel'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/EpeBJdsDxa6G90duEx0Uel'
 global.nnngrupo = nnn
-global.paypal = 'https://pay'
+global.paypal = 'https://paypal.me/ann1edes1gns'
 global.donar = paypal
-global.rg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
+global.rg = '*..  ✅  ٫    ̋  ⎯  *Resultado | Result*'
 global.resultado = rg
-global.ag = '*⚠️ᴀᴅᴠᴇʀᴛᴇɴᴄɪᴀ⚠️*'
+global.ag = '*..  ⚠️  ٫    ̋  ⎯  *Advertencia | Warning*'
 global.advertencia = ag
-global.iig = '*📌ɪɴғᴏʀᴍᴀᴄɪᴏɴ*✨'
+global.iig = '*..  ❕  ٫    ̋  ⎯  *Información | Information*'
 global.informacion = iig
-global.fg = '*❌ʟᴏ sᴇɴᴛɪᴍᴏs sᴇ ʜᴀ ɢᴇɴᴇʀᴀᴅᴏ ᴜɴ ᴇʀʀᴏʀ ᴠᴜᴇʟᴠᴇ ɪɴᴛᴇɴᴛᴀʀ❌*'
+global.fg = '*..  ❌  ٫    ̋  ⎯  *Fallo | Error*'
 global.fallo = fg
-global.mg = '*❗ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ʟᴏ ʜᴀ ᴜsᴀᴅᴏ ɪɴᴄᴏʀʀᴇᴄᴛᴀᴍᴇɴᴛᴇ*'
+global.mg = '*..  ❗️  ٫    ̋  ⎯  *Lo usó mal | Used it wrong*'
 global.mal = mg
-global.eeg = '*📩ˢᵁ ᴿᴱᴾᴼᴿᵀᴱ ᴴᴬ ˢᴵᴰᴼ ᴱᴺⱽᴵᴬᴰᴼ📩*'
+global.eeg = '*.. 📩  ٫    ̋  ⎯  *Reporte | Report*'
 global.envio = eeg
-global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
+global.eg = '*..  ✅  ٫    ̋  ⎯  *Éxito | Success*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍'
-global.igfg = '⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍'
+global.wm = 'ʚ🩵ɞ  𝗔𝗻𝗻𝗶𝗲𝗕𝗼𝘁 ✨ ⤾·˚ ༘\n▒̶᩠߲⃡ࠖ᩼᭭݊⃝⃡🩵ࣱꪾ῾֣ؐ  𝘈𝘯𝘯𝘪𝘦𝘉𝘰𝘵 °୭'
+global.igfg = '▒̶᩠߲⃡ࠖ᩼᭭݊⃝⃡🩵ࣱꪾ῾֣ؐ  𝘈𝘯𝘯𝘪𝘦𝘉𝘰𝘵 °୭'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./views/Menu.jpg')
