@@ -17,50 +17,49 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
-│➯✨ *𝗛ᴏʟᴀ,➟${taguser}*
-│➯🔮 *Menu-Anime*
-︎╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭─「❥🎋 *Animes* 🎍❥」
-│➯🔮 *.miku*
-│➯🔮 *.loli*
-│➯🔮 *.lolivid*
-│➯🔮 *.akira*
-│➯🔮 *.akiyama*
-│➯🔮 *.anna*
-│➯🔮 *.asuna*
-│➯🔮 *.ayuzawa*
-│➯🔮 *.boruto*
-│➯🔮 *.chiho*
-│➯🔮 *.chitoge*
-│➯🔮 *.deidara*
-│➯🔮 *.erza*
-│➯🔮 *.elaina*
-│➯🔮 *.eba*
-│➯🔮 *.emilia*
-│➯🔮 *.hestia*
-│➯🔮 *.hinata*
-│➯🔮 *.inori*
-│➯🔮 *.isuzu*
-│➯🔮 *.itachi*
-│➯🔮 *.itori*
-│➯🔮 *.kaga*
-│➯🔮 *.kagura*
-│➯🔮 *.kaori*
-│➯🔮 *.keneki*
-│➯🔮 *.kotori*
-│➯🔮 *.kurumi*
-│➯🔮 *.madara*
-│➯🔮 *.mikasa*
-│➯🔮 *.minato*
-│➯🔮 *.naruto*
-│➯🔮 *.nezuko*
-│➯🔮 *.sagiri*
-│➯🔮 *.sasuke*
-│➯🔮 *.sakura*
-│➯🔮 *.cosplay*
-│➯🔮⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰✍
+let str = `তততʚ🩵ɞ  𝗔𝗻𝗻𝗶𝗲𝗕𝗼𝘁 ✨ ⤾·˚ ༘ততত
+│▹✨ *𝗛ᴏʟᴀ,➟${taguser}*
+│▹🔮 *Menu-Anime*
+╰───────────────๑✨๑
+
+╭┈┈  ৎ 🩵 ׂ ⬫ *Animes*  ָ࣪  ۰ . ¡! 
+│▹🔮 *.miku*
+│▹🔮 *.loli*
+│▹🔮 *.lolivid*
+│▹🔮 *.akira*
+│▹🔮 *.akiyama*
+│▹🔮 *.anna*
+│▹🔮 *.asuna*
+│▹🔮 *.ayuzawa*
+│▹🔮 *.boruto*
+│▹🔮 *.chiho*
+│▹🔮 *.chitoge*
+│▹🔮 *.deidara*
+│▹🔮 *.erza*
+│▹🔮 *.elaina*
+│▹🔮 *.eba*
+│▹🔮 *.emilia*
+│▹🔮 *.hestia*
+│▹🔮 *.hinata*
+│▹🔮 *.inori*
+│▹🔮 *.isuzu*
+│▹🔮 *.itachi*
+│▹🔮 *.itori*
+│▹🔮 *.kaga*
+│▹🔮 *.kagura*
+│▹🔮 *.kaori*
+│▹🔮 *.keneki*
+│▹🔮 *.kotori*
+│▹🔮 *.kurumi*
+│▹🔮 *.madara*
+│▹🔮 *.mikasa*
+│▹🔮 *.minato*
+│▹🔮 *.naruto*
+│▹🔮 *.nezuko*
+│▹🔮 *.sagiri*
+│▹🔮 *.sasuke*
+│▹🔮 *.sakura*
+│▹🔮 *.cosplay*
 ╰───────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'Konede.mp3', null, m, true, { type: 'audioMessage', ptt: true})
